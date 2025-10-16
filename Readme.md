@@ -257,26 +257,6 @@ CREATE TABLE pacientes (
 - [ ] Múltiplos níveis de usuário (admin, recepcionista, médico)
 - [ ] Integração com API de envio de SMS
 
----
-
-## 🤝 Como Contribuir
-
-Contribuições são bem-vindas! Siga os passos abaixo:
-
-1. Fork o projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/MinhaFeature`)
-3. Commit suas mudanças (`git commit -m 'Adiciona MinhaFeature'`)
-4. Push para a branch (`git push origin feature/MinhaFeature`)
-5. Abra um Pull Request
-
-### Diretrizes de Contribuição
-
-- Mantenha o código limpo e bem comentado
-- Adicione testes para novas funcionalidades
-- Siga o estilo de código existente
-- Atualize a documentação quando necessário
-
----
 
 ## 📝 Licença
 

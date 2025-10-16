@@ -114,7 +114,7 @@ Escolha uma opção:
 Nome do paciente: João Silva
 Idade: 45
 Telefone: (11) 99999-9999
-✅ Paciente cadastrado com sucesso!
+Paciente cadastrado com sucesso!
 ```
 
 **Validações:**
@@ -138,7 +138,7 @@ Paciente mais velho: Pedro Costa (58 anos)
 === BUSCAR PACIENTE ===
 Digite o nome do paciente: maria
 
-✅ 1 paciente(s) encontrado(s):
+1 paciente(s) encontrado(s):
 
 ID: 2
 Nome: Maria Santos
@@ -278,17 +278,6 @@ Contribuições são bem-vindas! Siga os passos abaixo:
 
 ---
 
-## 🐛 Reportar Bugs
-
-Encontrou um bug? Por favor, abra uma [issue](https://github.com/seu-usuario/clinica-vida-plus/issues) descrevendo:
-
-- O que você esperava que acontecesse
-- O que realmente aconteceu
-- Passos para reproduzir o erro
-- Versão do Python que está usando
-
----
-
 ## 📝 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
@@ -303,33 +292,8 @@ Desenvolvido por **[Seu Nome]**
 - LinkedIn: [Seu Nome](https://linkedin.com/in/seu-perfil)
 - Email: seu.email@exemplo.com
 
----
 
-## 📞 Suporte
 
-Se precisar de ajuda, você pode:
-
-- 📧 Enviar um email para: suporte@clinicavidaplus.com
-- 💬 Abrir uma [discussão](https://github.com/seu-usuario/clinica-vida-plus/discussions)
-- 🐛 Reportar um [bug](https://github.com/seu-usuario/clinica-vida-plus/issues)
-
----
-
-## 🙏 Agradecimentos
-
-- Agradecimento especial à metodologia Scrum por organizar o desenvolvimento
-- Comunidade Python pela documentação excelente
-- Todos os contribuidores que ajudaram a melhorar este projeto
-
----
-
-## 📊 Status do Projeto
-
-```
-✅ Versão 1.0 - Lançamento inicial
-📅 Data: Outubro de 2025
-👥 Equipe: 1 desenvolvedor
-⏱️ Tempo de desenvolvimento: 2 semanas (Sprint 1)
 ```
 
 ---

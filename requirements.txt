@@ -1,0 +1,23 @@
+# Ignorar arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar ambientes virtuais
+venv/
+.env/
+
+# Ignorar arquivos de configuração local
+config.json
+settings_local.py
+
+# Ignorar cache e logs
+__pycache__/
+*.log
+
+# Ignorar arquivos compilados
+*.pyc
+*.pyo
+
+# Ignorar IDEs e editores
+.vscode/
+.idea/
